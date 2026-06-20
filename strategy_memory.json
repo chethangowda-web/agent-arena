@@ -1,0 +1,38 @@
+{
+  "default": {
+    "prompt": "Analyze the task carefully. Think step by step internally. Return only the final answer, concise and precise. No unnecessary explanation.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  },
+  "logic": {
+    "prompt": "This is a logic/reasoning task. Break it into steps mentally. Use deduction. Return only the final conclusion in 1-3 sentences.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  },
+  "code": {
+    "prompt": "This is a coding task. Write clean, functional, well-commented code. Verify logic before submitting. Include the full working solution.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  },
+  "data": {
+    "prompt": "This is a data extraction task. Be precise and structured. Return results in clean JSON or structured format. No extra commentary.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  },
+  "math": {
+    "prompt": "This is a math task. Calculate step by step. Double-check arithmetic. Return only the final numeric answer with units if applicable.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  },
+  "context": {
+    "prompt": "This is a comprehension/analysis task. Read carefully. Identify key information. Provide a focused, accurate answer without padding.",
+    "average_score": 0,
+    "attempts": 0,
+    "total_score": 0
+  }
+}
